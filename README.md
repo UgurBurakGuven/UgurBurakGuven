@@ -14,19 +14,13 @@
 </p>
 
 
-### Connect with me:
+## Connect with me:
 
-[![website](./globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./twitter-light.svg)](https://twitter.com/uburakguven#gh-light-mode-only)
+[![website](./twitter-dark.svg)](https://twitter.com/uburakguven#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./linkedin-light.svg)](https://www.linkedin.com/in/uğur-burak-güven-a3381b1a6/#gh-light-mode-only)
+[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/uğur-burak-güven-a3381b1a6/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./instagram-light.svg)](https://www.instagram.com/uburak.gvn#gh-light-mode-only)
 [![website](./instagram-dark.svg)](https://www.instagram.com/uburak.gvn#gh-dark-mode-only)
