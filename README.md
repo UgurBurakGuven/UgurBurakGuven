@@ -3,7 +3,7 @@
 ## Jr iOS Developer
 
 - 🌱 I’m currently learning **swift**
-- 👯 Knowledgeable on MVVM
+- 👯 Knowledgeable on **MVVM**
 - 📫 How to reach me: **uburak.gvn@icloud.com**
 
 ## Languages and Tools
