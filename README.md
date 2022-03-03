@@ -3,8 +3,14 @@
 ## Jr iOS Developer
 
 - 🌱 I’m currently learning **swift**
-- 👯 Knowledgeable on **MVVM**
+- 🧑‍💻 Knowledge and experience on **MVVM** and **VIPER**
 - 📫 How to reach me: **uburak.gvn@icloud.com**
+
+## Profile 
+
+###
+
+- Skilled in MVVM pattern, SOLID principles and Swift.Student with Engineering Faculty focused in Computer Science from Ataturk University.
 
 ## Languages and Tools
 
