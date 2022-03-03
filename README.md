@@ -1,4 +1,4 @@
-# Hi there, I'm Uğur Burak Güven👋 
+# Hi, I'm Uğur Burak Güven👋 
 
 ## Jr iOS Developer
 
