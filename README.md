@@ -11,7 +11,7 @@
 
 ###
 
-- Skilled in MVVM pattern, SOLID principles and Swift.Student with Engineering Faculty focused in Computer Science from Ataturk University.
+- Skilled in MVVM pattern, SOLID principles and Swift.Worked on VIPER.Student with Engineering Faculty focused in Computer Science from Ataturk University.
 
 ## Languages and Tools
 
