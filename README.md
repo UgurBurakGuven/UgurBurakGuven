@@ -1,5 +1,3 @@
-# Hi, I'm Uğur Burak Güven👋 
-
 ##  Jr iOS Developer
 
 - 🌱 I’m currently learning **swift**
