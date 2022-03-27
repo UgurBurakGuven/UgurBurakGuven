@@ -9,7 +9,7 @@
 
 ###
 
-- Skilled in MVVM pattern, SOLID principles and Swift.Worked on VIPER.Student with Engineering Faculty focused in Computer Science from Ataturk University.
+Junior iOS developer, have developed many applications.Skilled in MVVM pattern, Realm, CoreData and Swift, worked on VIPER pattern. Student with Engineering Faculty focused in Computer Science from Ataturk University
 
 ## Languages and Tools
 
