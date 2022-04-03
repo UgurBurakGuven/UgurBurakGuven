@@ -1,4 +1,4 @@
-##  Jr iOS Developer
+##  iOS Developer
 
 - 🌱 I’m currently learning **swift**
 - 🧑‍💻 Knowledge and experience on **MVVM** worked on **VIPER**
