@@ -1,7 +1,7 @@
 ##  iOS Developer
 
 - 🌱 I’m currently learning **swift**
-- 🧑‍💻 Knowledge and experience on **MVVM** worked on **VIPER**
+- 🧑‍💻 Knowledge and experience on **MVVM** and **Swift**
 - 📫 How to reach me: **uburak.gvn@icloud.com**
 - 📇 Personal website: **https://linktr.ee/UgurBurakGuven**
 
