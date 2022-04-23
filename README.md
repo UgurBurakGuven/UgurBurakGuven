@@ -1,4 +1,4 @@
-##  iOS Developer
+##  iOS Developer at Erstream
 
 - 🌱 I’m currently learning **swift**
 - 🧑‍💻 Knowledge and experience on **MVVM** and **Realm**
