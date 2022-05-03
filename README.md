@@ -9,7 +9,7 @@
 
 ###
 
-Junior iOS developer, have developed many applications.Skilled in MVVM pattern, Realm, CoreData and Swift, worked on VIPER pattern. Student with Engineering Faculty focused in Computer Science from Ataturk University
+iOS developer, have developed many applications.Skilled in MVVM pattern, Realm, CoreData and Swift. Student with Engineering Faculty focused in Computer Science from Ataturk University
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
