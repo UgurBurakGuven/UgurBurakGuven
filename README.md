@@ -1,6 +1,6 @@
 ##  iOS Developer at Erstream
 
-- 🌱 I’m currently learning **swift**
+- 🌱 I develop applications for **iOS**, **ipadOS**, **TVOS**
 - 🧑‍💻 Knowledge and experience on **MVVM** and **Realm**
 - 📫 How to reach me: **uburak.gvn@icloud.com**
 - 📇 Personal website: **https://linktr.ee/UgurBurakGuven**
