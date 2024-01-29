@@ -9,8 +9,16 @@
 
 ###
 
-iOS developer, have developed many applications.Skilled in MVVM pattern, Realm, CoreData and Swift and SwiftUI. Graduated from Ataturk University
+I have experience as an iOS developer and I strive to create exceptional user experiences on iOS and tvOS platforms. Currently, I have working as an iOS developer at Erstream, where I am dedicated to developing reliable applications.
 
+✔ Proficient iOS and tvOS developer with 2 years of hands-on experience.
+✔ Proficient in Swift and SwiftUI programming languages.
+✔ Familiarity with RESTful APIs and JSON parsing.
+✔ Knowledge of version control systems such as Git.
+✔ Demonstrated proficiency in utilizing industry-standard tools such as Jira, Zeplin, and Marvel to streamline the development process.
+✔ Successfully publishing applications to the App Store and conducting thorough testing using TestFlight.
+✔ Developing and supporting applications available on the App Store.
+✔ Highly skilled in Swift, SwiftUI, and various libraries
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 ## Languages and Tools
